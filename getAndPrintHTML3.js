@@ -35,3 +35,5 @@ var requestOptions = {
 
 
 getAndPrintHTML(requestOptions)
+
+// getAndPrintHTML({host: 'google.com', path: '/'})
